@@ -31,6 +31,32 @@
       ],
       "method": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Esse minima ex rem quis similique eum ratione quaerat, voluptas molestias ut repudiandae delectus voluptates. Eius esse at tenetur ab accusamus excepturi?",
       "cookingTime": "35 minutes"
+    },
+    {
+      "title": "Ribolitta",
+      "ingredients": [
+        "onion",
+        "British carrots",
+        "400g can Co-op butter beans drained and rinsed",
+        "330g pack Co-op cherry tomatoes chopped",
+        "2 stalks celery finely chopped"
+      ],
+      "method": "Heat the oil in a large pan and add the onion, garlic, celery and carrot\nSeason and cook on a low heat, stirring occasionally, for 10 mins\nAdd the tomatoes, stock and beans, and bring to the boil\nReduce to a simmer and cook for 20 mins, topping up with a little hot water if needed\nAdd the cabbage and bread for the last 10 mins of cooking\nSeason to taste, then serve",
+      "cookingTime": "44minutes",
+      "id": "8UYJzWr"
+    },
+    {
+      "title": "Spare Ribs",
+      "ingredients": [
+        "Ribs",
+        "1 tablespoon olive oil",
+        "1/2 teaspoon ground cumin",
+        "1 tablespoon hot chili sauce (suggestion Sriracha)",
+        "Salt and ground pepper, to taste"
+      ],
+      "method": "Remove the membrane (remember, this ensures fall off the bone ribs).\nGenerously season both sides with salt and pepper. This is also a great opportunity for adding more flavor with your favorite spice rub.\nCover the ribs with aluminum foil.\nBake the ribs at a low temperature (275°F) for 2 ½ to 4 hours or until they are tender.\nSlather the baked ribs with barbecue sauce, and then broil (or grill) the ribs for a few minutes until the sauce is caramelized.",
+      "cookingTime": "100 minutes",
+      "id": "Xfav4kv"
     }
   ]
 }
