@@ -49,3 +49,19 @@
   border-radius: 4px;
   margin: 20px auto 0;
 }
+
+/* dark mode */
+
+.recipe-list .card.dark {
+  background: #555;
+}
+
+.recipe-list .card.dark p {
+  color: #e4e4e4;
+}
+.recipe-list .card.dark h3 {
+  color: #e4e4e4;
+}
+.recipe-list .card.dark div {
+  color: #e4e4e4;
+}
